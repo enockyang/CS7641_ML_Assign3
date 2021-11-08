@@ -8,3 +8,5 @@ For running the code, there is no special requirements for the environment. Plea
 1. sklearn
 2. numpy
 3. itertools
+
+Since the second dataset is larger than 25MB, which is not allowed to upload. Please check the block 'Releases' in assign 1 (https://github.com/enockyang/CS7641_ML_Assign1) to download the data and put it into the folder to run the analysis.
